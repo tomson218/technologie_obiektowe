@@ -1,0 +1,621 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC37E75-5A29-4737-BBA0-7FEF46704003}|ClientPostgreSql\\ClientPostgreSql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientpostgresql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC37E75-5A29-4737-BBA0-7FEF46704003}|ClientPostgreSql\\ClientPostgreSql.csproj|solutionrelative:clientpostgresql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\dql\\dqlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\dql\\dqlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\dml\\dmlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\dml\\dmlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7609E-0553-4320-B393-994EE5CC77F6}|ClientMySql\\ClientMySql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E7609E-0553-4320-B393-994EE5CC77F6}|ClientMySql\\ClientMySql.csproj|solutionrelative:clientmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\dql\\dqlpostgresql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\dql\\dqlpostgresql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10423EFE-200C-4E95-BC48-B1F0C5E2458E}|OrmLibraryTests\\OrmLibraryTests.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrarytests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10423EFE-200C-4E95-BC48-B1F0C5E2458E}|OrmLibraryTests\\OrmLibraryTests.csproj|solutionrelative:ormlibrarytests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmTests\\Test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10423EFE-200C-4E95-BC48-B1F0C5E2458E}|OrmLibraryTests\\OrmLibraryTests.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrarytests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10423EFE-200C-4E95-BC48-B1F0C5E2458E}|OrmLibraryTests\\OrmLibraryTests.csproj|solutionrelative:ormlibrarytests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10423EFE-200C-4E95-BC48-B1F0C5E2458E}|OrmLibraryTests\\OrmLibraryTests.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrarytests\\ormlibrarytests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10423EFE-200C-4E95-BC48-B1F0C5E2458E}|OrmLibraryTests\\OrmLibraryTests.csproj|solutionrelative:ormlibrarytests\\ormlibrarytests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6637B5-2E3D-46D3-94E1-E0727E37208B}|ClientMicrosoftSql\\ClientMicrosoftSql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmicrosoftsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6637B5-2E3D-46D3-94E1-E0727E37208B}|ClientMicrosoftSql\\ClientMicrosoftSql.csproj|solutionrelative:clientmicrosoftsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CC29BB-3164-481C-BE17-3609108EFBF9}|ClientModel\\ClientModel.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CC29BB-3164-481C-BE17-3609108EFBF9}|ClientModel\\ClientModel.csproj|solutionrelative:clientmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC37E75-5A29-4737-BBA0-7FEF46704003}|ClientPostgreSql\\ClientPostgreSql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientpostgresql\\get\\getallexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC37E75-5A29-4737-BBA0-7FEF46704003}|ClientPostgreSql\\ClientPostgreSql.csproj|solutionrelative:clientpostgresql\\get\\getallexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\ddl\\ddlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\ddl\\ddlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\ddl\\ddlmicrosoftsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\ddl\\ddlmicrosoftsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\ddl\\ddlmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\ddl\\ddlmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\ddl\\ddlpostgresql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\ddl\\ddlpostgresql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\dml\\dmlmicrosoftsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\dml\\dmlmicrosoftsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\dml\\dmlmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\dml\\dmlmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\dml\\dmlpostgresql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\dml\\dmlpostgresql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\dql\\dqlmicrosoftsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\dql\\dqlmicrosoftsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\dql\\dqlmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\dql\\dqlmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CC29BB-3164-481C-BE17-3609108EFBF9}|ClientModel\\ClientModel.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmodel\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50CC29BB-3164-481C-BE17-3609108EFBF9}|ClientModel\\ClientModel.csproj|solutionrelative:clientmodel\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\models\\migration\\modelsnapshot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\models\\migration\\modelsnapshot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\OrmLibraryDQL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\ormlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\ormlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC37E75-5A29-4737-BBA0-7FEF46704003}|ClientPostgreSql\\ClientPostgreSql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientpostgresql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DC37E75-5A29-4737-BBA0-7FEF46704003}|ClientPostgreSql\\ClientPostgreSql.csproj|solutionrelative:clientpostgresql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC37E75-5A29-4737-BBA0-7FEF46704003}|ClientPostgreSql\\ClientPostgreSql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientpostgresql\\clientpostgresql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DC37E75-5A29-4737-BBA0-7FEF46704003}|ClientPostgreSql\\ClientPostgreSql.csproj|solutionrelative:clientpostgresql\\clientpostgresql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6637B5-2E3D-46D3-94E1-E0727E37208B}|ClientMicrosoftSql\\ClientMicrosoftSql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmicrosoftsql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA6637B5-2E3D-46D3-94E1-E0727E37208B}|ClientMicrosoftSql\\ClientMicrosoftSql.csproj|solutionrelative:clientmicrosoftsql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7609E-0553-4320-B393-994EE5CC77F6}|ClientMySql\\ClientMySql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7E7609E-0553-4320-B393-994EE5CC77F6}|ClientMySql\\ClientMySql.csproj|solutionrelative:clientmysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6637B5-2E3D-46D3-94E1-E0727E37208B}|ClientMicrosoftSql\\ClientMicrosoftSql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmicrosoftsql\\clientmicrosoftsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA6637B5-2E3D-46D3-94E1-E0727E37208B}|ClientMicrosoftSql\\ClientMicrosoftSql.csproj|solutionrelative:clientmicrosoftsql\\clientmicrosoftsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7609E-0553-4320-B393-994EE5CC77F6}|ClientMySql\\ClientMySql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmysql\\clientmysql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7E7609E-0553-4320-B393-994EE5CC77F6}|ClientMySql\\ClientMySql.csproj|solutionrelative:clientmysql\\clientmysql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50CC29BB-3164-481C-BE17-3609108EFBF9}|ClientModel\\ClientModel.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmodel\\clientmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50CC29BB-3164-481C-BE17-3609108EFBF9}|ClientModel\\ClientModel.csproj|solutionrelative:clientmodel\\clientmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmLibrary\\tests\\dqlTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\ormlibrary\\ormlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}|OrmLibrary\\OrmLibrary.csproj|solutionrelative:ormlibrary\\ormlibrary.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E7609E-0553-4320-B393-994EE5CC77F6}|ClientMySql\\ClientMySql.csproj|c:\\users\\tomso\\desktop\\to__projekt\\ormlibrary\\clientmysql\\clientmysql.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A7E7609E-0553-4320-B393-994EE5CC77F6}|ClientMySql\\ClientMySql.csproj|solutionrelative:clientmysql\\clientmysql.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\OrmClient\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\PostgreSQL\\PostgresqlDQLcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DDLMicrosoftSql.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DDL\\DDLMicrosoftSql.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DDL\\DDLMicrosoftSql.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DDL\\DDLMicrosoftSql.cs",
+              "RelativeToolTip": "OrmLibrary\\DDL\\DDLMicrosoftSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:47:49.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DDLBase.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DDL\\DDLBase.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DDL\\DDLBase.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DDL\\DDLBase.cs",
+              "RelativeToolTip": "OrmLibrary\\DDL\\DDLBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:08:54.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllExample.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientPostgreSql\\GET\\GetAllExample.cs",
+              "RelativeDocumentMoniker": "ClientPostgreSql\\GET\\GetAllExample.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientPostgreSql\\GET\\GetAllExample.cs",
+              "RelativeToolTip": "ClientPostgreSql\\GET\\GetAllExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:33:45.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMySql\\Program.cs",
+              "RelativeDocumentMoniker": "ClientMySql\\Program.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMySql\\Program.cs",
+              "RelativeToolTip": "ClientMySql\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:47:47.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientModel\\Program.cs",
+              "RelativeDocumentMoniker": "ClientModel\\Program.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientModel\\Program.cs",
+              "RelativeToolTip": "ClientModel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:09:06.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMicrosoftSql\\Program.cs",
+              "RelativeDocumentMoniker": "ClientMicrosoftSql\\Program.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMicrosoftSql\\Program.cs",
+              "RelativeToolTip": "ClientMicrosoftSql\\Program.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:48:01.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrmLibraryTests.csproj",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibraryTests\\OrmLibraryTests.csproj",
+              "RelativeDocumentMoniker": "OrmLibraryTests\\OrmLibraryTests.csproj",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibraryTests\\OrmLibraryTests.csproj",
+              "RelativeToolTip": "OrmLibraryTests\\OrmLibraryTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T14:24:28.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibraryTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "OrmLibraryTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibraryTests\\MSTestSettings.cs",
+              "RelativeToolTip": "OrmLibraryTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:22:18.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibraryTests\\Test1.cs",
+              "RelativeDocumentMoniker": "OrmLibraryTests\\Test1.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibraryTests\\Test1.cs",
+              "RelativeToolTip": "OrmLibraryTests\\Test1.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAiwIEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:22:21.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DQLPostgreSql.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DQL\\DQLPostgreSql.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DQL\\DQLPostgreSql.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DQL\\DQLPostgreSql.cs",
+              "RelativeToolTip": "OrmLibrary\\DQL\\DQLPostgreSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:41:57.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientPostgreSql\\Program.cs",
+              "RelativeDocumentMoniker": "ClientPostgreSql\\Program.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientPostgreSql\\Program.cs",
+              "RelativeToolTip": "ClientPostgreSql\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:47:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DQLBase.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DQL\\DQLBase.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DQL\\DQLBase.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DQL\\DQLBase.cs",
+              "RelativeToolTip": "OrmLibrary\\DQL\\DQLBase.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAA0wA4BAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:09:22.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DDLMySql.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DDL\\DDLMySql.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DDL\\DDLMySql.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DDL\\DDLMySql.cs",
+              "RelativeToolTip": "OrmLibrary\\DDL\\DDLMySql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:46:36.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmTests\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmTests\\Test1.cs",
+              "ToolTip": "C:\\Users\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmTests\\Test1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmTests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:53:08.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DDLPostgreSql.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DDL\\DDLPostgreSql.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DDL\\DDLPostgreSql.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DDL\\DDLPostgreSql.cs",
+              "RelativeToolTip": "OrmLibrary\\DDL\\DDLPostgreSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:47:16.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DMLBase.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DML\\DMLBase.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DML\\DMLBase.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DML\\DMLBase.cs",
+              "RelativeToolTip": "OrmLibrary\\DML\\DMLBase.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAUwNQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:09:07.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DMLMicrosoftSql.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DML\\DMLMicrosoftSql.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DML\\DMLMicrosoftSql.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DML\\DMLMicrosoftSql.cs",
+              "RelativeToolTip": "OrmLibrary\\DML\\DMLMicrosoftSql.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:48:07.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DMLMySql.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DML\\DMLMySql.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DML\\DMLMySql.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DML\\DMLMySql.cs",
+              "RelativeToolTip": "OrmLibrary\\DML\\DMLMySql.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:46:51.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DMLPostgreSql.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DML\\DMLPostgreSql.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DML\\DMLPostgreSql.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DML\\DMLPostgreSql.cs",
+              "RelativeToolTip": "OrmLibrary\\DML\\DMLPostgreSql.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:47:31.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DQLMicrosoftSql.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DQL\\DQLMicrosoftSql.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DQL\\DQLMicrosoftSql.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DQL\\DQLMicrosoftSql.cs",
+              "RelativeToolTip": "OrmLibrary\\DQL\\DQLMicrosoftSql.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:42:26.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DQLMySql.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DQL\\DQLMySql.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\DQL\\DQLMySql.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\DQL\\DQLMySql.cs",
+              "RelativeToolTip": "OrmLibrary\\DQL\\DQLMySql.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:42:11.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "OrmLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\Program.cs",
+              "RelativeToolTip": "OrmLibrary\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowFMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:34:04.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientModel\\Book.cs",
+              "RelativeDocumentMoniker": "ClientModel\\Book.cs",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientModel\\Book.cs",
+              "RelativeToolTip": "ClientModel\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:09:20.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "modelSnapshot.json",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\models\\Migration\\modelSnapshot.json",
+              "RelativeDocumentMoniker": "OrmLibrary\\models\\Migration\\modelSnapshot.json",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\models\\Migration\\modelSnapshot.json",
+              "RelativeToolTip": "OrmLibrary\\models\\Migration\\modelSnapshot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T13:02:48.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrmLibraryDQL.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\OrmLibraryDQL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\OrmLibraryDQL.cs",
+              "ToolTip": "C:\\Users\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\OrmLibraryDQL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\OrmLibraryDQL.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAAAAC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:20:08.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrmLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\OrmLibrary.csproj",
+              "RelativeDocumentMoniker": "OrmLibrary\\OrmLibrary.csproj",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\OrmLibrary.csproj",
+              "RelativeToolTip": "OrmLibrary\\OrmLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T11:35:58.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientPostgreSql\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientPostgreSql\\appsettings.json",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientPostgreSql\\appsettings.json",
+              "RelativeToolTip": "ClientPostgreSql\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T13:08:27.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClientPostgreSql.csproj",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientPostgreSql\\ClientPostgreSql.csproj",
+              "RelativeDocumentMoniker": "ClientPostgreSql\\ClientPostgreSql.csproj",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientPostgreSql\\ClientPostgreSql.csproj",
+              "RelativeToolTip": "ClientPostgreSql\\ClientPostgreSql.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T11:49:26.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClientMicrosoftSql.csproj",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMicrosoftSql\\ClientMicrosoftSql.csproj",
+              "RelativeDocumentMoniker": "ClientMicrosoftSql\\ClientMicrosoftSql.csproj",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMicrosoftSql\\ClientMicrosoftSql.csproj",
+              "RelativeToolTip": "ClientMicrosoftSql\\ClientMicrosoftSql.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T11:49:49.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMySql\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientMySql\\appsettings.json",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMySql\\appsettings.json",
+              "RelativeToolTip": "ClientMySql\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T13:22:54.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMicrosoftSql\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientMicrosoftSql\\appsettings.json",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMicrosoftSql\\appsettings.json",
+              "RelativeToolTip": "ClientMicrosoftSql\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T13:35:37.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClientMySql.csproj",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMySql\\ClientMySql.csproj",
+              "RelativeDocumentMoniker": "ClientMySql\\ClientMySql.csproj",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMySql\\ClientMySql.csproj",
+              "RelativeToolTip": "ClientMySql\\ClientMySql.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T11:49:36.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClientModel.csproj",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientModel\\ClientModel.csproj",
+              "RelativeDocumentMoniker": "ClientModel\\ClientModel.csproj",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientModel\\ClientModel.csproj",
+              "RelativeToolTip": "ClientModel\\ClientModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T13:41:57.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dqlTest.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmLibrary\\tests\\dqlTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmLibrary\\tests\\dqlTest.cs",
+              "ToolTip": "C:\\Users\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmLibrary\\tests\\dqlTest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\OrmLibrary \u2014 kopia\\OrmLibrary\\tests\\dqlTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:04:13.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrmLibrary",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\OrmLibrary.csproj",
+              "RelativeDocumentMoniker": "OrmLibrary\\OrmLibrary.csproj",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\OrmLibrary\\OrmLibrary.csproj",
+              "RelativeToolTip": "OrmLibrary\\OrmLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T15:48:20.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClientMySql",
+              "DocumentMoniker": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMySql\\ClientMySql.csproj",
+              "RelativeDocumentMoniker": "ClientMySql\\ClientMySql.csproj",
+              "ToolTip": "C:\\Users\\tomso\\Desktop\\TO__projekt\\OrmLibrary\\ClientMySql\\ClientMySql.csproj",
+              "RelativeToolTip": "ClientMySql\\ClientMySql.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T15:49:12.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\OrmClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\OrmClient\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\OrmClient\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\OrmClient\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBZwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:45:46.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PostgresqlDQLcs.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\PostgreSQL\\PostgresqlDQLcs.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\PostgreSQL\\PostgresqlDQLcs.cs",
+              "ToolTip": "C:\\Users\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\PostgreSQL\\PostgresqlDQLcs.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\tomas\\Desktop\\VII_sem\\Technologie obiektowe\\PRO\\ORM__13_04_2025\\ORM\\ORM\\ORM\\PostgreSQL\\PostgresqlDQLcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:19:56.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

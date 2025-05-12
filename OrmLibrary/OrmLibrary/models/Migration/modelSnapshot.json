@@ -1,0 +1,7 @@
+{
+  "Book": {
+    "id": "Int32",
+    "Date": "DateTime",
+    "Publisher": "String"
+  }
+}

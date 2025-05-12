@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmLibrary", "OrmLibrary\OrmLibrary.csproj", "{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{50CC29BB-3164-481C-BE17-3609108EFBF9} = {50CC29BB-3164-481C-BE17-3609108EFBF9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientPostgreSql", "ClientPostgreSql\ClientPostgreSql.csproj", "{8DC37E75-5A29-4737-BBA0-7FEF46704003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientMySql", "ClientMySql\ClientMySql.csproj", "{A7E7609E-0553-4320-B393-994EE5CC77F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientMicrosoftSql", "ClientMicrosoftSql\ClientMicrosoftSql.csproj", "{DA6637B5-2E3D-46D3-94E1-E0727E37208B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientModel", "ClientModel\ClientModel.csproj", "{50CC29BB-3164-481C-BE17-3609108EFBF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrmLibraryTests", "OrmLibraryTests\OrmLibraryTests.csproj", "{10423EFE-200C-4E95-BC48-B1F0C5E2458E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B5EB4D-9B11-47F9-B6BC-03C393549F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC37E75-5A29-4737-BBA0-7FEF46704003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC37E75-5A29-4737-BBA0-7FEF46704003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC37E75-5A29-4737-BBA0-7FEF46704003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC37E75-5A29-4737-BBA0-7FEF46704003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E7609E-0553-4320-B393-994EE5CC77F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E7609E-0553-4320-B393-994EE5CC77F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E7609E-0553-4320-B393-994EE5CC77F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E7609E-0553-4320-B393-994EE5CC77F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6637B5-2E3D-46D3-94E1-E0727E37208B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6637B5-2E3D-46D3-94E1-E0727E37208B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6637B5-2E3D-46D3-94E1-E0727E37208B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6637B5-2E3D-46D3-94E1-E0727E37208B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50CC29BB-3164-481C-BE17-3609108EFBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50CC29BB-3164-481C-BE17-3609108EFBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50CC29BB-3164-481C-BE17-3609108EFBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50CC29BB-3164-481C-BE17-3609108EFBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10423EFE-200C-4E95-BC48-B1F0C5E2458E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10423EFE-200C-4E95-BC48-B1F0C5E2458E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10423EFE-200C-4E95-BC48-B1F0C5E2458E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10423EFE-200C-4E95-BC48-B1F0C5E2458E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D74E077-EBB6-4665-A2FF-437647D330AC}
+	EndGlobalSection
+EndGlobal
